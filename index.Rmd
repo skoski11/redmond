@@ -1,0 +1,6 @@
+---
+title: "Greeting"
+output: html_document
+---
+
+Hi, Dr. Redmond.
